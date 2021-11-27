@@ -71,11 +71,11 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/',
+                to: './docs/',
               },
               {
                 label: 'Contributing',
-                to: '/docs/contributing',
+                to: './docs/contributing',
               }
 
             ],
