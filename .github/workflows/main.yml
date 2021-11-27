@@ -5,7 +5,7 @@ on:
     branches: [master]
 
 jobs:
-  Deploy and Push:
+  Deploy-and-Push:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
