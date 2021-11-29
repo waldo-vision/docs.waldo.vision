@@ -71,11 +71,11 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: './docs/',
+                to: '/docs/docs',
               },
               {
                 label: 'Contributing',
-                to: './docs/contributing',
+                to: '/docs/docs/contributing',
               }
 
             ],
@@ -93,7 +93,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/waldo-vision',
+                href: 'https://twitter.com/waldovision',
               },
             ],
           },
