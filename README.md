@@ -10,16 +10,17 @@ WALDO is a powerful tool made for public usage. WALDO's opensource development h
 - Analysis
 - Front End
 - Infrastructure
+
 [Learn more...](https://waldo-vision.github.io/docs/)
 
 # Contributing
 To help contribute to WALDO, please visit the [WALDO Documentation page.](https://waldo-vision.github.io/docs/) and make sure to comply with the [Contributor Agreement](https://waldo-vision.github.io/docs/docs/contributing).
 
-## Contributors
+## Contributor list
 > WALDO Documentation page only...
 
 <a href="https://github.com/waldo-vision/docs/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=waldo-vision/docs" />
+  <img style="center" src="https://contrib.rocks/image?repo=waldo-vision/docs" />
 </a>
 
 # Installation
