@@ -3,7 +3,7 @@
   <img src="/static/img/WALDO-banner.png" alt="WALDO" href="https://waldo.vision"/>
 </p>
 
-# About WALDO.vision
+# About
 A deep learning Artificial Intelligence (A.I.) can detect the human behavioral characteristics of a user within a video game. We plan to train an A.I. to understand how humans play video games via a visual machine learning program. Once the program understands how humans play video games based on gameplay footage, we can then feed it the gameplay footage to determine if the player in the footage is receiving assistance from a 3rd party "hack" or "cheat" program. 
 
 WALDO is a powerful tool made for public usage. WALDO's opensource development has split into groups for development ease, here are the list of groups;
@@ -12,6 +12,8 @@ WALDO is a powerful tool made for public usage. WALDO's opensource development h
     Front End
     Infrastructure
 
+# Contributing
+To help contribute to WALDO, please visit the [WALDO Documentation page.](https://waldo-vision.github.io/docs/) and make sure to comply with the [Contributor Agreement](https://waldo-vision.github.io/docs/docs/contributing).
 
 # Installation
 
