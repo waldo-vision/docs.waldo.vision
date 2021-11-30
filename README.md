@@ -24,7 +24,7 @@ As this project is still in development, the installation is not yet complete, h
 
 
 ## Developers
-> Download or clone the [GitHub](https//github.com/waldo-vision) application repository (check releases) to download or help with the development of WALDO.
+> Download or clone the [GitHub](https://github.com/waldo-vision) application repository (check releases) to download or help with the development of WALDO.
 
 ### Package Manager
 ```shell
