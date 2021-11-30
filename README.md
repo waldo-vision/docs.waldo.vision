@@ -1,6 +1,9 @@
-# Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+<p align="center">
+  <img src="/static/img/WALDO-banner.png" alt="WALDO" href="https://waldo.vision"/>
+</p>
+
+
 
 ### Installation
 
