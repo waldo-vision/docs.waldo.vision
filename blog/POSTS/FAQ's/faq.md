@@ -30,4 +30,4 @@ We strive for the open-source community to help, so our main goal is to make eve
 
 There is no set date when WALDO will be usable. However, we want it up and running as soon as possible, and it is with your help!
 
-For more information, check out the documentation page [here](https://docs.waldo.vision).
+> For more information, check out the documentation page [here](https://docs.waldo.vision).
