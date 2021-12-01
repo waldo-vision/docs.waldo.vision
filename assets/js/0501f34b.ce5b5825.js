@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[394],{7606:function(s){s.exports=JSON.parse('{"name":"Welcome","permalink":"/docs/docs/tags/welcome","docs":[{"id":"intro","title":"\ud83d\udc4b Introduction","description":"WALDO","permalink":"/docs/docs/"}],"allTagsPath":"/docs/docs/tags"}')}}]);
