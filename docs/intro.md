@@ -26,7 +26,7 @@ As this project is still in development, the installation is not yet complete, h
 
 
 ## Documentation 
-> Documentation is still in development, but you can find the [documentation](https://github.com/waldo-vision/docs) on the [GitHub](https://github.com/waldo-vision) repository.
+> Documentation is still in development, but you can find the [documentation](https://github.com/waldo-vision/docs.waldo.vision) on the [GitHub](https://github.com/waldo-vision) repository.
 
 
 ## Contributing
