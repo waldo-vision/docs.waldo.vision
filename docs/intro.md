@@ -11,7 +11,7 @@ slug: ./
 ![WALDO](/img/WALDO-banner.png)
 
 ## About
-[WALDO](https://github.com/waldo-vision) is a powerful tool made for [public usage](https://www.mozilla.org/en-US/MPL/2.0/). WALDO's opensource development has split into groups for development ease, here are the list of groups;
+[WALDO](docs.waldo.vision) is a powerful tool made for [public usage](https://www.mozilla.org/en-US/MPL/2.0/). WALDO's opensource development has split into groups for development ease, here are the list of groups;
 
 - Analysis
 - Front End
