@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: 📄PageManagement
+title: 📄Page Management
 id: PageManagement
 tags:
     - Introduction
