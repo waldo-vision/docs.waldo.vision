@@ -5,7 +5,7 @@ id: PageManagement
 tags:
     - Introduction
     - Admin
-slug: ./
+slug: ./pages
 ---
 
 # Creating, Deleting or Editing Docs 📄
