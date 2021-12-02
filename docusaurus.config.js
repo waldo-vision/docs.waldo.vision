@@ -8,11 +8,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'WALDO Documentation',
   tagline: 'First visual anti-cheat powered by AI',
-  url: 'https://waldo-vision.github.io',
-  baseUrl: '/docs/',
+  url: 'https://waldo.vision',
+  baseUrl: '/',
   favicon: '/img/favicon.ico',
   organizationName: 'waldo-vision', // Usually your GitHub org/user name.
-  projectName: 'docs', // Usually your repo name.
+  projectName: 'docs.waldo.vision', // Usually your repo name.
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
 
@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/waldo-vision/docs/tree/master',
+          editUrl: 'https://github.com/waldo-vision/docs.waldo.vision/tree/master',
         },
         blog: {
           showReadingTime: true,
@@ -46,7 +46,9 @@ const config = {
         title: 'WALDO',
         logo: {
           alt: 'WALDO',
-          src: 'img/logo.svg',
+          src: '/img/logo-light.svg',
+          srcDark: '/img/logo-dark.svg',
+          href: '/',
         },
         items: [
           {
@@ -71,11 +73,11 @@ const config = {
             items: [
               {
                 label: 'Getting Started',
-                to: '/docs/docs',
+                to: '/docs',
               },
               {
                 label: 'Contributing',
-                to: '/docs/docs/contributing',
+                to: '/docs/contributing',
               }
 
             ],
