@@ -5,11 +5,7 @@ id: Create-Delete-Pages
 tags:
     - Introduction
     - Admin
-<<<<<<< HEAD:docs/CreatingPages.md
-slug: ./create-delete-pages
-=======
-slug: ./pages
->>>>>>> fc1a0c798cef5a2d34becadd9f0d305622f4044b:docs/PageManagement.md
+slug: create-delete-pages
 ---
 
 # Creating, Deleting or Editing Docs 📄
