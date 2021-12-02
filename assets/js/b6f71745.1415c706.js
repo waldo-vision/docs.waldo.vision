@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[248],{7450:function(a){a.exports=JSON.parse('{"name":"Admin","permalink":"/docs/tags/admin","docs":[{"id":"PageManagement","title":"\ud83d\udcc4Page Management","description":"Further doumentaation check out: Docusaurus ~ v2.0.0-beta.9","permalink":"/docs/"}],"allTagsPath":"/docs/tags"}')}}]);
