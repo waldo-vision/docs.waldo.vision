@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
-title: 
-id: 📄PageManagement
+title: 📄PageManagement
+id: PageManagement
 tags:
     - Introduction
     - Admin
