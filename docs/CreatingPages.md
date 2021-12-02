@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
-title: 📄Page Management
-id: PageManagement
+title: 📄 Creating and Editing Pages
+id: Create-Delete-Pages
 tags:
     - Introduction
     - Admin
-slug: ./
+slug: ./create-delete-pages
 ---
 
 # Creating, Deleting or Editing Docs 📄
