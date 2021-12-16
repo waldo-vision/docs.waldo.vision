@@ -1,0 +1,36 @@
+tsundere: #Username to display
+  name: Ben (tsundere) L. Martin #Name of author
+  title: Team Lead for FrontEnd #Role
+  url: https://github.com/tsundDEV  #url link (self promo)
+  image_url: https://github.com/tsundDev.png #github image or pfp
+
+RicanSamurai:
+  name: Jared (RicanSamurai) B. 
+  title: Project Lead
+  url: https://github.com/jaredb1011
+  image_url: https://github.com/jaredb1011.png
+
+Homeless:
+  name: Nicholas (Basically Homeless) Zetta 
+  title: Project Lead
+  url: https://youtube.com/user/PappaZeee
+  image_url: https://github.com/Mr-Homeless.png
+
+FaceInCake:
+  name: Matthew (FaceInCake) Eppel
+  title: Team Lead for Analysis
+  url: https://github.com/FaceInCake
+  image_url: https://github.com/FaceInCake.png
+
+FrostBite:
+  name: Heber (FrostBite) Johnson
+  title: Team Lead for Analysis
+  url: https://www.twitch.tv/vsfrostbite
+  image_url: https://cdn.discordapp.com/avatars/269653809154883584/bb978da0acb8a6151f769d28f7630388.webp?size=80 
+
+
+Keeks:
+  name: Kieran (Keeks) Breeze 
+  title: Team Lead for Infrastucture
+  url: https://github.com/krnbrz
+  image_url: https://github.com/krnbrz.png
