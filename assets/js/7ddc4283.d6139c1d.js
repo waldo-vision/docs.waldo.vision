@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[807],{5287:function(t){t.exports=JSON.parse('{"name":"Contributing","permalink":"/docs/tags/contributing","docs":[{"id":"contributing","title":"\ud83c\udfc6 Contributing","description":"Contributor Covenant","permalink":"/docs/contributing"}],"allTagsPath":"/docs/tags"}')}}]);
