@@ -14,8 +14,8 @@ const config = {
   onBrokenMarkdownLinks: 'log',
   onDuplicateRoutes: 'log',
   favicon: 'img/favicon.ico',
-  organizationName: 'WALDO', // Usually your GitHub org/user name.
-  projectName: 'vision.waldo.docs', // Usually your repo name.
+  organizationName: 'waldo-vision', // Usually your GitHub org/user name.
+  projectName: 'docs.waldo.vision', // Usually your repo name.
   titleDelimiter: ' ⋅ ',
   baseUrlIssueBanner: false,
 
