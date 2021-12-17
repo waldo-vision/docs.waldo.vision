@@ -113,7 +113,7 @@ If you are using GitHub directly you can edit the file directly in the develop b
 If you want to test your changes locally you can use the following commands:
 ### First install the dependencies
 <Tabs>
-  <TabItem value="yarn" label="Installing dependencies with npm" default>
+  <TabItem value="yarn" label="Installing dependencies with yarn" default>
     <CodeBlock language="bash">
       $ yarn install
     </CodeBlock>
