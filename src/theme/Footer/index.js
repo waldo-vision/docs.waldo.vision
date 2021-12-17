@@ -124,13 +124,13 @@ function Footer() {
               </div>
             )}
             {copyright ? (
-              <div
+              <a target="_blank" href='https://waldo.vision'><div
                 className="footer__copyright" // Developer provided the HTML, so assume it's safe.
                 // eslint-disable-next-line react/no-danger
                 dangerouslySetInnerHTML={{
                   __html: copyright,
                 }}
-              />
+              /></a>
             ) : null}
           </div>
         )}
