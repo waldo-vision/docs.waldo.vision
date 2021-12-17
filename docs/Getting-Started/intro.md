@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: 👋 Introduction 
-description: The Offifial Documentation for WALDO. Introduction to WALDO.
+description: The Official Documentation for WALDO
 id: intro
 tags:
     - Welcome 
