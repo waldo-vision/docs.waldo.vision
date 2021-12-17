@@ -125,6 +125,7 @@ If you want to test your changes locally you can use the following commands:
   </TabItem>
 </Tabs>
 This will download the dependencies for you. Any errors please let the developers know.
+
 ### Then test it locally
 <Tabs>
   <TabItem value="yarn" label="Testing locally with yarn" default>
@@ -138,6 +139,7 @@ This will download the dependencies for you. Any errors please let the developer
     </CodeBlock>
   </TabItem>
 </Tabs>
+You should beign to see the build output in the terminal and a browser should open with the current build.
 
 
 ## Pushing / Updating Files to GitHub (terminal)
