@@ -43,7 +43,7 @@ const config = {
 
   themeConfig:
     ({
-      image: 'img/logo-dark.png',
+      image: 'img/WALDO-banner.png',
       announcementBar: {
         id: 'announcement',
         content:
@@ -140,7 +140,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} WALDO Vision under MIT License.`,
+        copyright: `Copyright © ${new Date().getFullYear()} WALDO Vision under MPL License.`,
       },
       prism: {
         theme: lightCodeTheme,

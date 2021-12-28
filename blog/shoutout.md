@@ -8,8 +8,6 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import CodeBlock from '@theme/CodeBlock';
 
-# Shoutouts 📢
-
 ## About
 
 Every Friday, we essentially want to find a way for us to promote the people who are helping us out in the community, whether it be by aiding us in the development of WALDO, or by helping us in the creation of our own content or by simply helping us out with our own ideas. It doesn't matter whether it was a bug fix, a new feature, or a new idea, anything that helps us out in the community we appreciate dearly.
