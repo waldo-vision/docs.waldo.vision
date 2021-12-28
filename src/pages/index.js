@@ -41,7 +41,7 @@ export default function Home() {
               </div>
             </div>
             <div className={clsx(styles.header_row_col__6_col__offset_1, "col col--6 col--offset-1")}>
-              <img className={styles.header_row_col__6_col__offset_1__img} src='img/spin.gif' alt='Programmer' />
+              <img className={styles.header_row_col__6_col__offset_1__img} src='img/spin.gif' alt='WALDO' />
             </div>
           </div>
         </div>
