@@ -17,7 +17,7 @@ If you want to learn more about the Electron framework, you can view it [here](h
 
 ## 📚 Getting Started
 
-If you are new to Electron, you can start by reading the [Getting Started](https://electronjs.org/docs/tutorial/getting-started) guide. This guide will walk you through the basic steps to get started with Electron. 
+If you are new to Electron, you can start by reading the [Getting Started](https://www.electronjs.org/docs/latest) guide. This guide will walk you through the basic steps to get started with Electron. 
 
 We will be using the [forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) to develop our Electron application. Read the [forking workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) guide to be able to contribute to WALDO.
 
