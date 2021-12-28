@@ -66,7 +66,7 @@ When you have made changes to the *new fork*, you can create a *pull request* to
 
 To create a new pull request to the waldo.desktop.app repository, navigate to your *new fork* and click on the **Pull Request** button. Click on the **New Pull Request** button and make sure that the PR is directing to the develop branch. 
 
-![PR](/img/pr-branch-ss.png)
+![PR](/img/PR-branch-ss.png)
 
 Then, add a title and a description for your pull request.
 
