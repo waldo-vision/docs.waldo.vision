@@ -34,7 +34,7 @@ export default function Home() {
                 </Link>
                 <Link
                   className={clsx('button button--outline button--primary button--lg', styles.header_row_col__4_col__offset_1__learnMore,)}
-                  to='/blog'>
+                  to='/blog/faq'>
                   Learn More
                 </Link>
               </div>

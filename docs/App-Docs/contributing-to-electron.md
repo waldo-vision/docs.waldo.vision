@@ -29,7 +29,7 @@ We will be using the [forking workflow](https://www.atlassian.com/git/tutorials/
 
 all under the rules of the [contributing agreement](https://docs.waldo.vision/docs/contributing/) and the [code of conduct](https://docs.waldo.vision/docs/contributing#code-of-conduct) attached to WALDO's repositories.
 
-## Why use the fork workflow?
+## 🆘 Why use the fork workflow?
 
 **Good question!**
 
@@ -52,6 +52,9 @@ When forked, you will see a new repository in your organisation or account. You 
 
 If your want to make changes to the code, you can do so by adding changes to the *new fork*. Once you have made changes, you can push them to the *new fork* by clicking on the **Commit** button. For more information on how to push changes to the *new fork*, please refer to the [GitHub documentation](https://help.github.com/en/articles/using-git-commands-to-manage-your-repository-and-files). Click on the **Commit** button and add a message to describe the changes you have made.
 
+## 👋 Before you start working on your changes 
+When you want to contribute to the project, you should create an issue on the [GitHub repository](https://github.com/waldo-vision/waldo.desktop.app) and state what component you are working on. This makes it easier for people to work with you and your progress, where others can view your work and maybe even develop your code! Then, you can create a pull request. Read more about the structure of your pull request below. 
+
 :::important
 Please note that any changes to the `package.json`, `craco.config.js`, `.gitignore` or `yarn.lock` files will be ignored unless you have a specific reason to do so. 
 :::
@@ -64,7 +67,7 @@ Before making your pull request, please make sure your fork is up to date with t
 
 When you have made changes to the *new fork*, you can create a *pull request* to the waldo.desktop.app repository. This will allow you to make a request to the original repository to merge your changes. 
 
-To create a new pull request to the waldo.desktop.app repository, navigate to your *new fork* and click on the **Pull Request** button. Click on the **New Pull Request** button and make sure that the PR is directing to the develop branch. 
+To create a new pull request to the waldo.desktop.app repository, navigate to your *new fork* and click on the **Pull Request** button. Click on the **New Pull Request** button and make sure that the PR is directing to the **develop branch**.  **Make sure you are also exposing it on your issue that you either create or link to.**
 
 ![PR](/img/PR-branch-ss.png)
 
