@@ -11,13 +11,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <meta name="author" content="WALDO Team" />
         <title>WALDO ⋅ Anticheat powered by AI</title>
-        <meta name="description" content="Cheat detection powered by AI" />
-        <meta name="keywords" content="WALDO, Vision, Cheaters, Cheats, Hacks, Anti-Cheat, AI, Machine Learning, Cloud, Open Source, Free, Electron, Gaming, Rainbow 6, CSGO, Valorant, Auto, GTA, FPS, Gamers, Shooters, Mr Homeless, Basically Homeless, Homeless, Youtube, Discord, Docs, Documentation, Minecraft"/>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-        <meta name="language" content="English"/>
-        
       </Head>
 
       <header className={styles.header}>

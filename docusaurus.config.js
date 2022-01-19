@@ -43,6 +43,7 @@ const config = {
 
   themeConfig:
     ({
+      metadata: [{name:'keywords', content:'WALDO, Vision, Cheaters, Cheats, Hacks, Anti-Cheat, AI, Machine Learning, Cloud, Open Source, Free, Electron, Gaming, Rainbow 6, CSGO, Valorant, Auto, GTA, FPS, Gamers, Shooters, Mr Homeless, Basically Homeless, Homeless, Youtube, Discord, Docs, Documentation, Minecraft'}, {name:'description', content:'WALDO is a cheat detection system powered by AI. It is a free, open source, and cross-platform cheat detection system. It is a tool for gamers to detect cheats and hacks in games.'}],
       image: 'img/WALDO-banner.png',
       announcementBar: {
         id: 'announcement',
