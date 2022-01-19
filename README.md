@@ -19,9 +19,10 @@ To help contribute to WALDO, please visit the [WALDO Documentation page.](https:
 ## Contributor list
 > WALDO Documentation page only...
 
-<a href="https://github.com/waldo-vision/docs/graphs/contributors">
-  <img style="center" src="https://contrib.rocks/image?repo=waldo-vision/docs" />
+<a href="https://github.com/waldo-vision/docs.waldo.vision/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=waldo-vision/docs.waldo.vision" />
 </a>
+
 
 # Installation
 
