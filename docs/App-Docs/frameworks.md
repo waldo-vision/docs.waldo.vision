@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: 🪟 Frameworks
+title: 📦 Frameworks
 id: frameworks
 tags:
     - Electron
