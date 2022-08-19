@@ -40,7 +40,7 @@ This is still in development, so the documentation is not yet complete.
 Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the documentation.
 See the [contribution guide](./contributing) if you'd like to submit a PR.
 
-## Help
+## Need Help
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle nudge in the right direction, please don't hesitate to join our official [waldo.vision discord server](https://bit.ly/3mqDTV0).
 > ## **💡**Questions?
