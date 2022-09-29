@@ -32,7 +32,7 @@ $ git remote add origin https://github.com/waldo-vision/docs.waldo.vision.git
 ```
 
 ##### Pull the repo to your local repository 
-`origin` as organisation repository
+`origin` as organization repository
 `master` as repository branch to pull
 ```shell
 $ git pull origin master
