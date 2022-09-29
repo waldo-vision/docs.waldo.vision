@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 import CodeBlock from '@theme/CodeBlock';
 
 # Creating, Deleting or Editing Docs 📄
-> Further doumentaation check out: Docusaurus ~ [`v2.0.0-beta.13`](https://docusaurus.io/docs) 
+> Further documentation check out: Docusaurus ~ [`v2.0.0-beta.13`](https://docusaurus.io/docs) 
 >  Only limited markdown knowledge needed [learn more...](https://www.markdownguide.org/cheat-sheet/)
 
 ## Setting up ⚙️
@@ -32,7 +32,7 @@ $ git remote add origin https://github.com/waldo-vision/docs.waldo.vision.git
 ```
 
 ##### Pull the repo to your local repository 
-`origin` as organisation repository
+`origin` as organization repository
 `master` as repository branch to pull
 ```shell
 $ git pull origin master
@@ -79,7 +79,7 @@ When creating a file, make sure to add a header with the following format:
 ---
 sidebar_position: 1      
 title: 👋 Introduction      
-id: anlysis-new-approach-intro       
+id: analysis-new-approach-intro       
 tags:
     - Admin
 slug: ./
@@ -139,7 +139,7 @@ This will download the dependencies for you. Any errors please let the developer
     </CodeBlock>
   </TabItem>
 </Tabs>
-You should beign to see the build output in the terminal and a browser should open with the current build.
+You should begin to see the build output in the terminal and a browser should open with the current build.
 
 
 ## Pushing / Updating Files to GitHub (terminal)
