@@ -79,7 +79,7 @@ When creating a file, make sure to add a header with the following format:
 ---
 sidebar_position: 1      
 title: 👋 Introduction      
-id: anlysis-new-approach-intro       
+id: analysis-new-approach-intro       
 tags:
     - Admin
 slug: ./
