@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 import CodeBlock from '@theme/CodeBlock';
 
 # Creating, Deleting or Editing Docs 📄
-> Further doumentaation check out: Docusaurus ~ [`v2.0.0-beta.13`](https://docusaurus.io/docs) 
+> Further documentation check out: Docusaurus ~ [`v2.0.0-beta.13`](https://docusaurus.io/docs) 
 >  Only limited markdown knowledge needed [learn more...](https://www.markdownguide.org/cheat-sheet/)
 
 ## Setting up ⚙️
